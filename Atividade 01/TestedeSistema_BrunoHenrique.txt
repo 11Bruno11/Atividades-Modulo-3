@@ -1,0 +1,7 @@
+Teste realizado no projeto do Carlos e sua equipe.
+
+
+1) No cadastro de paciente, o campo cep não está obrigatório.
+2) No cadastro de paciente, o campo telefone secundario está sendo obrigatório.
+3) No cadastro de convenio, o campo email não está sendo obrigatório.
+4) No cadastro de médico, o campo cep não está obrigatório.

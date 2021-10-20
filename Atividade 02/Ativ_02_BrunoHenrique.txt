@@ -1,0 +1,7 @@
+Teste de Caixa branca feito na SA 03 do Carlos
+
+1 - Criar uma pasta chamada Java Script e colocar apenas os arquivos necessário nelas, invez de repetir os mesmo arquivos em pastas diferentes.
+
+2 - Usar o Java Script ou o próprio PHP para validação dos formulários.
+
+3 - Usar a tecnologia MVC/Composer para dar mais organização e facilidade de acesso as funções.
